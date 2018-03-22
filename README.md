@@ -1,2 +1,2 @@
 # Article_extraction
-Article Extraction
+We are scraping the page and getting the pparagraph tags <p> from the page and then we are trying to filter out the relevant text from the page. We are using regex for removing irrelevant tags from the paragraphs. 
